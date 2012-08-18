@@ -6,8 +6,11 @@ public class HelloWorld {
 		System.out.println("String 2");
 		System.out.println("String 3");
 		System.out.println("String 5");
-		System.out.println("String 4");
+		System.out.println("hello");
+		System.out.println("String 9");
 		System.out.println("hello");
 		int a = 9;
+		System.out.println("hello");
+		System.out.println("String 9");
 	}
 }
